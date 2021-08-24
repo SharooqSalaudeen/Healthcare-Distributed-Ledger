@@ -1,4 +1,4 @@
-# Med Block
+# Med Block - Blockchain in Health Care
 
 ## Usage
 [Install docker](https://docs.docker.com/install/) and make sure docker-compose is installed.
