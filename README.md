@@ -1,4 +1,4 @@
-# Sana Node
+# Med Block
 
 ## Usage
 [Install docker](https://docs.docker.com/install/) and make sure docker-compose is installed.
